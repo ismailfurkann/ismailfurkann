@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi 👋, I'm Ismail Furkan<br>🔭 I’m currently working on C, C#.<br>🌱 I’m currently learning Python, .Net<br>
+Hi 👋, 
+I'm Ismail Furkan<br>🔭
+I’m currently working on C, C#.
+<br>🌱 I’m currently learning Python, .Net<br>
 
 
 # 💻 Tech Stack:
