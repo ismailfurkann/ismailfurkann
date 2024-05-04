@@ -1,7 +1,4 @@
- [![MasterHead]( https://img.tamindir.com/resize/1200x675/2023/01/476730/yazilim-dilleri.jpg)
-
-
-
+ ![MasterHead]( https://img.tamindir.com/resize/1200x675/2023/01/476730/yazilim-dilleri.jpg)
 <h1 align="center">Hi 👋, I'm Ismail Furkan</h1>
 <h3 align="center">Computer engineering student at the International Balkan university</h3>
 
