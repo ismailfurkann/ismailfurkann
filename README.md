@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailfurkann&label=Profile%20views&color=0e75b6&style=flat" alt="ismailfurkann" /> </p>
 
-- 🔭 I’m currently working on C, HTML and CSS **food ordering website**
+- 🔭 I’m currently working on C, HTML and CSS   **food ordering website**
 
-- 🌱 I’m currently learning SQL and Python **with school**
+- 🌱 I’m currently learning SQL and Python 
 
 - 📫 How to reach me **ismailfurkanal@gmail.com**
 
