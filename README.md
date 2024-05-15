@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.wallpapersafari.com/76/28/HqzPwk.gif)](https://github.com/ismailfurkann)
+
 
 <h1 align="center">Hi 👋, I'm İsmail Furkan Altug</h1>
 <h3 align="center">I'm Computer Engineering student at International Balkan University</h3>
