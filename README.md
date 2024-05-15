@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-29.gif))](https://github.com/ismailfurkann)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-29.gif)](https://github.com/ismailfurkann)
 
 <h1 align="center">Hi 👋, I'm İsmail Furkan Altug</h1>
 <h3 align="center">I'm Computer Engineering student at International Balkan University</h3>
