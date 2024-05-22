@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailfurkann&label=Profile%20views&color=0e75b6&style=flat" alt="ismailfurkann" /> </p>
 
-- 🔭 I’m currently working on C, C#, HTML and CSS   **bANK Management System**
+- 🔭 I’m currently working on C, C#, HTML and CSS   **BANK Management System**
 
 - 🌱 I’m currently learning SQL and Python 
 
