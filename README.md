@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my own projects  
 
-- 🌱 I’m currently learning SQL and Python 
+- 🌱 I’m currently learning Dart and Flutter. 
 
 - 📫 How to reach me **ismailfurkanal@gmail.com**
 
