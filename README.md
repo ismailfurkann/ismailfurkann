@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm İsmail Furkan Altug</h1>
 <h3 align="center">I'm Computer Engineering student at International Balkan University</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://img.aestheticwallpaperai.com/wallpapers/de13ece4-8eb1-49c4-b110-28ffe0781a10.webp)">
+<img align="right" alt=""  height="300" width="550" src="https://wallpapers.com/images/hd/coding-background-09t1v4tbqm94hvrn.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailfurkann&label=Profile%20views&color=0e75b6&style=flat" alt="ismailfurkann" /> </p>
 
