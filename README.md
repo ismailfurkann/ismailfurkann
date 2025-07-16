@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İsmail Furkan Altuğ</h1>
 <h3 align="center">Computer Engineering student at International Balkan University</h3>
 
-<img align="right" alt="Java Wallpaper" height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQVQGdV2kE8KAbsVtrc0SUls4z3VAbCk-Rw&s" />
+<img align="right" alt="Java Wallpaper" height="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQVQGdV2kE8KAbsVtrc0SUls4z3VAbCk-Rw&s" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ismailfurkann&label=Profile%20views&color=0e75b6&style=flat" alt="ismailfurkann" />
