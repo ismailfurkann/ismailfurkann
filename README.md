@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm İsmail Furkan Altug</h1>
 <h3 align="center">I'm a Computer Engineering student at International Balkan University</h3>
-<img align="right" alt="" height="300" width="550" src="https://wallpapers.com/images/hd/coding-background-09t1v4tbqm94hvrn.jpg">
+<img align="right" alt="Java Logo Wallpaper" height="300" width="550" src="https://4kwallpapers.com/images/wallpapers/java-logo-2560x1080-15990.png">
 
 - 🔭 I’m currently working on my own projects  
 
