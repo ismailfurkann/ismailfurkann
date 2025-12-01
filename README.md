@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İsmail Furkan Altuğ</h1>
-<h3 align="center">Computer Engineering student at International Balkan University</h3>
+<h3 align="center">Computer Engineering student at International Balkan University, focused on backend development</h3>
 
 
 <p align="left">
