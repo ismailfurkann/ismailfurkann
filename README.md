@@ -8,7 +8,7 @@
 ---
 
 ### 🔧 Tech Stack
-- Java, Spring Boot, Spring Security
+- Java, Spring Boot
 - REST API, JWT Authentication
 - PostgreSQL, MySQL, Hibernate
 - Docker, CI/CD, GitHub Actions
