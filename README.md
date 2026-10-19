@@ -59,39 +59,6 @@ My hands-on work spans **Kubernetes clusters**, **GitOps workflows with Argo CD*
 
 </div>
 
-## 🚀 Selected Hands-on Work
-
-### 01 · Event-Driven Microservices — Spring Boot + Kafka + Elastic Stack
-
-Developed a local multi-service demonstration with **user-service**, **order-service**, and **notification-service**.
-
-- Published `USER_CREATED` and `ORDER_CREATED` events to Kafka topics.
-- Consumed events in the notification service and indexed them in **Elasticsearch**.
-- Used **Kibana** to inspect stored application events.
-- Ran the supporting stack using **Docker Compose**, with **Kafka UI** for messaging visibility.
-
-**Stack:** Java · Spring Boot · Kafka · Elasticsearch · Kibana · Docker Compose
-
-### 02 · Kubernetes Cluster & Observability Lab
-
-Built and operated multi-node **kubeadm-based Kubernetes** environments for hands-on infrastructure learning.
-
-- Configured control-plane and worker nodes with a container runtime and cluster networking.
-- Experimented with **HAProxy + Keepalived** for a virtual-IP/high-availability setup.
-- Installed **Prometheus, Grafana**, and Kubernetes monitoring components.
-- Practiced service exposure, scaling, deployments, and troubleshooting.
-
-**Stack:** Linux · Kubernetes · containerd / CRI-O · Helm · Prometheus · Grafana
-
-### 03 · GitOps & API Gateway Lab
-
-- Deployed applications through **Argo CD** and practiced GitOps-style synchronization.
-- Experimented with **Apache APISIX** and Kubernetes service connectivity.
-- Worked with **Helm** and cluster administration tools to manage and inspect workloads.
-
-**Stack:** Kubernetes · Argo CD · Helm · Apache APISIX
-
-> 📌 More project documentation and reproducible examples are being added to my repositories.
 
 ## 📈 GitHub Activity
 
